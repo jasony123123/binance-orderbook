@@ -6,8 +6,8 @@ channels:
 dependencies:
   - brotlipy=0.7.0=py310hca72f7f_1002
   - bzip2=1.0.8=h0d85af4_4
-  - ca-certificates=2022.4.26=hecd8cb5_0
-  - certifi=2022.6.15=py310hecd8cb5_0
+  - ca-certificates=2022.9.24=h033912b_0
+  - certifi=2022.9.24=pyhd8ed1ab_0
   - cffi=1.15.0=py310hc55c11b_1
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - cryptography=37.0.1=py310hf6deb26_0
@@ -29,6 +29,7 @@ dependencies:
   - tk=8.6.12=h5dbffcc_0
   - tzdata=2022d=h191b570_0
   - urllib3=1.26.9=py310hecd8cb5_0
+  - websocket-client=1.4.1=pyhd8ed1ab_0
   - websockets=10.3=py310h1961e1f_0
   - wheel=0.37.1=pyhd8ed1ab_0
   - xz=5.2.6=h775f41a_0
